@@ -1,0 +1,2 @@
+include tutel/ops/cuda/*
+include tutel/ops/rocm/*

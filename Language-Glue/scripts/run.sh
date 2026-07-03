@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python search_glue_no_trainer.py --model_name_or_path ~/data/bert-large-cased --task_name cola --to_MoE --gate_type smooth_top --num_experts 8 --top_k 2 --moe_layers $moe_layers --expert_repeat 8 --random_cluster --save_model
