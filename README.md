@@ -55,4 +55,3 @@ If you find our work or this code useful in your research, please consider citin
   url={https://openreview.net/forum?id=AyrNR1ExN5}
 }
 ```
-# Smooth_SMoE
